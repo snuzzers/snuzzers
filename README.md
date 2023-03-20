@@ -1,16 +1,16 @@
-### Hi there 👋
+💌 - Hiya, I'm an aspiring developer and digital artist
 
-<!--
-**snuzzers/snuzzers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 - I'm interested in all things computer science
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Actively learning | Most experienced |
+| ----------------- | ---------------- |
+| • Rust | • Lua |
+| • Go | • JS |
+| • Blender | • C# |
+
+-------------------------------------------------------
+
+[![](https://github-readme-stats.vercel.app/api?username=snuzzers&theme=gruvbox)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snuzzers&layout=compact&theme=gruvbox)]()
