@@ -11,6 +11,6 @@
 
 -------------------------------------------------------
 
-[![](https://github-readme-stats.vercel.app/api?username=snuzzers&theme=gruvbox)]()
+![](https://github-readme-stats.vercel.app/api?username=snuzzers&theme=gruvbox&show_icons=true&bg_color=00000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snuzzers&layout=compact&theme=gruvbox)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snuzzers&theme=gruvbox&show_icons=true&bg_color=00000000)
