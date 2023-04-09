@@ -18,4 +18,4 @@ I'm snuzzers, a computer science enthusiast with a passion for programming and a
 
 Feel free to reach out via email at snuzbiz@gmail.com. I'm always open to collaboration!
 
-![](https://git-stats-vercel-snuzzers.vercel.app/api?username=snuzzers&theme=vue-dark&show_icons=true) &nbsp; ![Top Langs](https://git-stats-vercel-snuzzers.vercel.app/api/top-langs/?username=snuzzers&theme=vue-dark&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css,shell)
+![Top Langs](https://git-stats-vercel-snuzzers.vercel.app/api/top-langs/?username=snuzzers&theme=vue-dark&show_icons=true&layout=compact&langs_count=8&hide=javascript,html,css,shell)
